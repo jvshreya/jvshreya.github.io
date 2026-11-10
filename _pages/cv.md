@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Integrated BS–MS in Biological Sciences, Indian Institute of Technology Madras, Chennai, India (Aug 2022–May 2027); CGPA: 9.07/10
+* Exchange programme in Biotechnology, KTH Royal Institute of Technology, Stockholm, Sweden (Jan–May 2025)
 
 Work experience
 ======
